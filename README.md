@@ -1,2 +1,2 @@
-# wayne-grays.github.io
-Website dedicated to someone special.
+# janetzh.ga
+Website dedicated to someone special. Hi, Mom!

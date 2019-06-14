@@ -1,1 +1,10 @@
-This is a website dedicated to a person.
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>Chicken!</h1>
+  </body>
+</html>
